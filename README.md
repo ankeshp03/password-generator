@@ -19,19 +19,19 @@ On clicking the Copy Icon button the generated password should be copied to clip
 On clicking the Generate Password button a random password should be generated based on the controls that are checked
 
 1.  Only uppercase checked
-    ![only-uppercase-checked](https://raw.githubusercontent.com/ankeshp03/password-generator/master/designs/controls_example_views/uppercase_control.png)
+    ![only-uppercase-checked](https://raw.githubusercontent.com/ankeshp03/password-generator/master/designs/controls_example_views/1.%20uppercase_control.png)
 2.  Only lowercase checked
-    ![only-lowercase-checked](https://raw.githubusercontent.com/ankeshp03/password-generator/master/designs/controls_example_views/lowercase_control.png)
+    ![only-lowercase-checked](https://raw.githubusercontent.com/ankeshp03/password-generator/master/designs/controls_example_views/2.%20lowercase_control.png)
 3.  Only numbers checked
-    ![only-numbers-checked](https://raw.githubusercontent.com/ankeshp03/password-generator/master/designs/controls_example_views/numbers_control.png)
+    ![only-numbers-checked](https://raw.githubusercontent.com/ankeshp03/password-generator/master/designs/controls_example_views/3.%20numbers_control.png)
 4.  Only symbols checked
-    ![only-symbols-checked](https://raw.githubusercontent.com/ankeshp03/password-generator/master/designs/controls_example_views/symbols_control.png)
+    ![only-symbols-checked](https://raw.githubusercontent.com/ankeshp03/password-generator/master/designs/controls_example_views/4.%20symbols_control.png)
 5.  Uppercase and lowercase checked
-    ![uppercase-and-lowercase-checked](https://raw.githubusercontent.com/ankeshp03/password-generator/master/designs/controls_example_views/uppercase_and_lowercase_control.png)
+    ![uppercase-and-lowercase-checked](https://raw.githubusercontent.com/ankeshp03/password-generator/master/designs/controls_example_views/5.%20uppercase_and_lowercase_control.png)
 6.  Uppercase, lowercase and numbers checked
-    ![uppercase-lowercase-and-numbers-checked](https://raw.githubusercontent.com/ankeshp03/password-generator/master/designs/controls_example_views/uppercase_lowercase_and_numbers_control.png)
+    ![uppercase-lowercase-and-numbers-checked](https://raw.githubusercontent.com/ankeshp03/password-generator/master/designs/controls_example_views/6.%20uppercase_lowercase_and_numbers_control.png)
 7.  Uppercase, lowercase, numbers and symbols checked
-    ![uppercase-lowercase-numbers-and-symbols-checked](https://raw.githubusercontent.com/ankeshp03/password-generator/master/designs/controls_example_views/uppercase_lowercase_numbers_and_symbols_control.png)
+    ![uppercase-lowercase-numbers-and-symbols-checked](https://raw.githubusercontent.com/ankeshp03/password-generator/master/designs/controls_example_views/7.%20uppercase_lowercase_numbers_and_symbols_control.png)
 
 ## Instructions
 
