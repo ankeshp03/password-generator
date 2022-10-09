@@ -1,6 +1,6 @@
 # Codedamn Projects - Password Generator
 
-![main image](https://raw.githubusercontent.com/password-generator/master/designs/desktop_view.png)
+![main image](https://raw.githubusercontent.com/ankeshp03/password-generator/master/designs/desktop_view.png)
 
 ## Hello developer!
 
